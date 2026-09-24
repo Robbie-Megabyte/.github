@@ -4,9 +4,11 @@
 
 ### *An autonomous navigation and locomotion project.*
 
-<img src="1.png" width="30%" alt="Robbie photo 1" />
-<img src="2.png" width="30%" alt="Robbie photo 2" />
-<img src="3.png" width="30%" alt="Robbie photo 3" />
+<img src="1.png" width="70%" alt="Robbie photo 1" />
+
+<img src="2.png" width="70%" alt="Robbie photo 2" />
+
+<img src="3.png" width="70%" alt="Robbie photo 3" />
 
 </div>
 
